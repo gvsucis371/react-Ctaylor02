@@ -1,3 +1,4 @@
+// grade me part 1
 import React from "react";
 
 // MovieList Component - Receives movies as a prop
